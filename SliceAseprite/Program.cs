@@ -3,7 +3,6 @@
 var dir = Directory.GetCurrentDirectory();
 
 var projects = Directory.GetFiles(dir, "*.aseprite");
-string selected = string.Empty;
 if (projects.Length == 0)
 {
     Console.WriteLine($"No projects found in {dir}");
