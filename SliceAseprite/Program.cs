@@ -1,7 +1,5 @@
 ﻿using System.Diagnostics;
 
-Directory.SetCurrentDirectory("V:\\_projects\\sbox\\terry_llc\\Assets\\aseprite");
-
 var dir = Directory.GetCurrentDirectory();
 
 var projects = Directory.GetFiles(dir, "*.aseprite");
