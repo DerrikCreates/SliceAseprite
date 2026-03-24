@@ -1,0 +1,1 @@
+simple cli tool to mass convert all aseprite project slices out as standalone images. Your aseprite(.exe) is expected to be in your system path. (meaning you can start aseprite by opening a CLI and typing `aseprite` or `aseprite.exe`)
